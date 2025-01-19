@@ -44,4 +44,7 @@ In the output, you'll find option to open the app in a
 
 ## Images
 
+![Main Menu](https://github.com/Sin-28/Weather/blob/master/ReadMe%20Images/Main%20Menu.jpg)
+![Forecast](https://github.com/Sin-28/Weather/blob/master/ReadMe%20Images/Forecast.jpg)
 
+### Thank you for using the app!
