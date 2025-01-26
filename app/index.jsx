@@ -8,7 +8,7 @@ import { AntDesign } from '@expo/vector-icons';
 import { Entypo } from '@expo/vector-icons';
 
 const CITY = ["Seoul", "Tokyo", "Sydney", "Singapore", "New York"];
-const APIKEY = "fa635e54b00c4fce47965d8b4253bb3e";
+const APIKEY = "Only in the original file!";
 
 export default function Index() {
   const [isReady, setReady] = useState(false);
